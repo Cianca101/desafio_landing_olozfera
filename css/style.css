@@ -71,6 +71,10 @@ body {
     color: whitesmoke;
 }
 
+.title {
+    font-size: 30px;
+}
+
 /* 2 GNR ITEMS */
 .header {
     position: relative;
